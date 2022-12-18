@@ -14,6 +14,8 @@
 - `JS`
 - `React`
 - `Redux`
+- `thunk`
+- `styled-components`
 - `Git`
 
 
