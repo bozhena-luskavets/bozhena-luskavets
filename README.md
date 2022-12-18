@@ -1,7 +1,8 @@
 # 🌱 Божена Лускавець 
 **Email**: `bozhena.luskavets@gmail.com` </br>
 **Ph.Num**: `+38(050)928-83-27` </br>
-**Facebook**: `Bozhena Luskavets` </br>
+**Facebook**: [Bozhena Luskavets](https://www.facebook.com/profile.php?id=100039034393525) </br>
+**Linkedin**: [Bozhena Luskavets](https://www.linkedin.com/in/bozhena-luskavets-bb4956212/) </br>
 
 ### ⚡На даний момент 
 Я знаходжусь у пошуках роботи на посаду `junior front-end інженера`</br>
