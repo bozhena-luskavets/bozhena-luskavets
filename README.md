@@ -1,8 +1,8 @@
-# 🌱 Божена Лускавець 
+# 📫 Божена Лускавець 
 **Email**: `bozhena.luskavets@gmail.com` </br>
 **Ph.Num**: `+38(050)928-83-27` </br>
 **Facebook**: [Bozhena Luskavets](https://www.facebook.com/profile.php?id=100039034393525) </br>
-**Linkedin**: [Bozhena Luskavets](https://www.linkedin.com/in/bozhena-luskavets-bb4956212/) </br>
+**LinkedIn**: [Bozhena Luskavets](https://www.linkedin.com/in/bozhena-luskavets-bb4956212/) </br>
 
 ### ⚡На даний момент 
 Я знаходжусь у пошуках роботи на посаду `junior front-end інженера`</br>
@@ -24,10 +24,18 @@
 > протягом 2021-2022 років навчалась у компанії "ЕKreative" </br>
 на програмі "lektorium" на посаду front-end розробника під пильним наглядом Senior Full-stack інженера.</br>
 Проекти, які я зробила в процесі:</br></br>
-**star wars api(Без гарного дизайну)**: <link></br>
+[Star Wars without design](https://github.com/bozhenaluskavets/starwars)</br>
 `react` `redux` `thunk` `styled-components`</br></br>
-**star wars api з гарним дизайном**: <link> </br>
-`react` `styled-components`</br>
+[Star Wars with design](https://github.com/bozhenaluskavets/starwars)</br> 
+`react` `styled-components`</br></br>
+[Register form](https://github.com/bozhenaluskavets/registerForm)</br>
+`html` `scc` `JS`</br></br>
+[Notes](https://github.com/bozhenaluskavets/renderPosts)</br>
+`html` `scc` `JS`</br></br>
+[Website 'AppLab'](https://github.com/bozhenaluskavets/appLab)</br>
+`html` `scc`</br></br>
+[Website 'Piroll'](https://github.com/bozhenaluskavets/piroll)</br>
+`html` `scc`</br></br>
 
 
 
