@@ -24,7 +24,7 @@
 > протягом 2021-2022 років навчалась у компанії "ЕKreative" </br>
 на програмі "lektorium" на посаду front-end розробника під пильним наглядом Senior Full-stack інженера.</br>
 Проекти, які я зробила в процесі:</br></br>
-[Star Wars without design](https://github.com/bozhenaluskavets/starwars)</br>
+[Star Wars without design](https://github.com/bozhena-luskavets/swapi)</br>
 `react` `redux` `thunk` `styled-components`</br></br>
 [Star Wars with design](https://github.com/bozhenaluskavets/starwars)</br> 
 `react` `styled-components`</br></br>
