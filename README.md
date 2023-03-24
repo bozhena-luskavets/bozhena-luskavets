@@ -37,7 +37,7 @@
 [Website 'Piroll'](https://github.com/bozhenaluskavets/piroll)</br>
 `html` `scc`</br></br>
 
-### Ekreative Winter Internship
+### Ekreative Internship
 > від початку 2023 року і дотепер </br>
 я отримую досвід web-розробки на реальному проекті в компанії "ЕKreative" в ролі інтерна
 
