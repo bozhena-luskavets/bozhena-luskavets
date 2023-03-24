@@ -14,9 +14,11 @@
 - `JS`
 - `React`
 - `Redux`
+- `MobX`
 - `thunk`
 - `styled-components`
 - `Git`
+
 
 
 ## Досвід:
